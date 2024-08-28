@@ -1,0 +1,1 @@
+// Es la funcion que se encarga de la consulta a base de datos 
